@@ -1,41 +1,28 @@
 [
   {
-    "id": "com.vnk.networkmonitor",
-    "name": "Network Monitor Pro",
-    "description": "Advanced network monitoring with detailed analytics and bandwidth alerts. Track your network usage, set custom alerts, and visualize statistics.",
+    "id": "com.vnk.eyebreakApp",
+    "name": "EyeGuardian",
+    "description": "EyeGuardian helps you maintain healthy eyes while working on your Mac with the scientifically proven 20-20-20 rule: Every 20 minutes, look at something 20 feet away for 20 seconds. This simple practice reduces eye strain, prevents dry eyes, and helps maintain focus during long work sessions.",
     "iconName": "network.badge.shield.half.filled",
-    "appStoreURL": "https://apps.apple.com/app/id12345",
+    "appStoreURL": "https://apps.apple.com/in/app/eyeguardian/id6744367335?mt=12",
     "screenshotURLs": [
       "https://raw.githubusercontent.com/yourusername/app-products/main/images/networkmonitor1.jpg",
       "https://raw.githubusercontent.com/yourusername/app-products/main/images/networkmonitor2.jpg"
     ],
-    "price": "$4.99",
+    "price": "$0.99",
     "category": "Utilities"
   },
   {
-    "id": "com.vnk.diskanalyzer",
-    "name": "Disk Space Analyzer",
-    "description": "Visualize your disk usage and free up space with smart recommendations. Find and remove unnecessary files to optimize storage.",
+    "id": "com.vnk.eventcountdown.macos",
+    "name": "EventCountDownPro",
+    "description": "Track birthdays, holidays, deadlines, trips, and all your important dates with beautiful, customizable countdowns. Whether it's a wedding day, vacation, project deadline, or just counting down to the weekend – EventCountdownPro helps you visualize the time remaining and stay organized.",
     "iconName": "externaldrive.badge.checkmark",
-    "appStoreURL": "https://apps.apple.com/app/id67890",
+    "appStoreURL": "https://apps.apple.com/in/app/eventcountdownpro/id6745096791",
     "screenshotURLs": [
       "https://raw.githubusercontent.com/yourusername/app-products/main/images/diskanalyzer1.jpg",
       "https://raw.githubusercontent.com/yourusername/app-products/main/images/diskanalyzer2.jpg"
     ],
-    "price": "$3.99",
+    "price": "$0.99",
     "category": "Utilities"
-  },
-  {
-    "id": "com.vnk.weatherradar",
-    "name": "Weather Radar",
-    "description": "Real-time weather radar and forecasts with customizable alerts. Stay updated with accurate predictions and beautiful visualizations.",
-    "iconName": "cloud.sun.rain.fill",
-    "appStoreURL": "https://apps.apple.com/app/id54321",
-    "screenshotURLs": [
-      "https://raw.githubusercontent.com/yourusername/app-products/main/images/weatherradar1.jpg",
-      "https://raw.githubusercontent.com/yourusername/app-products/main/images/weatherradar2.jpg"
-    ],
-    "price": "Free",
-    "category": "Weather"
   }
 ]
