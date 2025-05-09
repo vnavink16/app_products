@@ -1,0 +1,41 @@
+[
+  {
+    "id": "com.vnk.networkmonitor",
+    "name": "Network Monitor Pro",
+    "description": "Advanced network monitoring with detailed analytics and bandwidth alerts. Track your network usage, set custom alerts, and visualize statistics.",
+    "iconName": "network.badge.shield.half.filled",
+    "appStoreURL": "https://apps.apple.com/app/id12345",
+    "screenshotURLs": [
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/networkmonitor1.jpg",
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/networkmonitor2.jpg"
+    ],
+    "price": "$4.99",
+    "category": "Utilities"
+  },
+  {
+    "id": "com.vnk.diskanalyzer",
+    "name": "Disk Space Analyzer",
+    "description": "Visualize your disk usage and free up space with smart recommendations. Find and remove unnecessary files to optimize storage.",
+    "iconName": "externaldrive.badge.checkmark",
+    "appStoreURL": "https://apps.apple.com/app/id67890",
+    "screenshotURLs": [
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/diskanalyzer1.jpg",
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/diskanalyzer2.jpg"
+    ],
+    "price": "$3.99",
+    "category": "Utilities"
+  },
+  {
+    "id": "com.vnk.weatherradar",
+    "name": "Weather Radar",
+    "description": "Real-time weather radar and forecasts with customizable alerts. Stay updated with accurate predictions and beautiful visualizations.",
+    "iconName": "cloud.sun.rain.fill",
+    "appStoreURL": "https://apps.apple.com/app/id54321",
+    "screenshotURLs": [
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/weatherradar1.jpg",
+      "https://raw.githubusercontent.com/yourusername/app-products/main/images/weatherradar2.jpg"
+    ],
+    "price": "Free",
+    "category": "Weather"
+  }
+]
