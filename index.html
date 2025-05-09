@@ -1,10 +1,60 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>App Products API</title>
+    <style>
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #0066cc;
+        }
+        .resources {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+        .resources h2 {
+            margin-top: 0;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+    </style>
 </head>
 <body>
     <h1>App Products API</h1>
     <p>This is a simple JSON API for app products.</p>
     <p>Access the JSON data at: <a href="products.json">products.json</a></p>
+    
+    <div class="resources">
+        <h2>Available Resources</h2>
+        <p>JSON Data: <a href="products.json">products.json</a></p>
+        <h3>Images:</h3>
+        <ul>
+            <li><a href="images/EyeGuardian1.png">EyeGuardian1.png</a></li>
+            <li><a href="images/EyeGuardian2.png">EyeGuardian2.png</a></li>
+            <li><a href="images/EyeGuardian3.png">EyeGuardian3.png</a></li>
+        </ul>
+    </div>
+
+    <div class="resources">
+        <h2>Usage in Swift</h2>
+        <p>To load these resources in your app:</p>
+        <pre><code>
+// Load JSON
+let productsURL = URL(string: "https://vnavink16.github.io/app-products/products.json")!
+
+// Load images
+let imageURL = URL(string: "https://vnavink16.github.io/app-products/images/EyeGuardian1.png")!
+        </code></pre>
+    </div>
 </body>
 </html>
