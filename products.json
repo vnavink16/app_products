@@ -3,7 +3,7 @@
     "id": "com.vnk.eyebreakApp",
     "name": "EyeGuardian",
     "description": "EyeGuardian helps you maintain healthy eyes while working on your Mac with the scientifically proven 20-20-20 rule: Every 20 minutes, look at something 20 feet away for 20 seconds. This simple practice reduces eye strain, prevents dry eyes, and helps maintain focus during long work sessions.",
-    "iconName": "network.badge.shield.half.filled",
+    "iconName": "https://vnavink16.github.io/app_products/images/eyeGuardianAppIcon.png",
     "appStoreURL": "https://apps.apple.com/in/app/eyeguardian/id6744367335?mt=12",
     "screenshotURLs": [
       "https://vnavink16.github.io/app_products/images/EyeGuardian1.png",
@@ -17,7 +17,7 @@
     "id": "com.vnk.eventcountdown.macos",
     "name": "EventCountDownPro",
     "description": "Track birthdays, holidays, deadlines, trips, and all your important dates with beautiful, customizable countdowns. Whether it's a wedding day, vacation, project deadline, or just counting down to the weekend – EventCountdownPro helps you visualize the time remaining and stay organized.",
-    "iconName": "externaldrive.badge.checkmark",
+    "iconName": "https://vnavink16.github.io/app_products/images/EventCountDownAppIcon.png",
     "appStoreURL": "https://apps.apple.com/in/app/eventcountdownpro/id6745096791",
     "screenshotURLs": [
       "https://vnavink16.github.io/app_products/images/EventCountDown1.png",
