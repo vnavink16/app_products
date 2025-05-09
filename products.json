@@ -6,9 +6,9 @@
     "iconName": "network.badge.shield.half.filled",
     "appStoreURL": "https://apps.apple.com/in/app/eyeguardian/id6744367335?mt=12",
     "screenshotURLs": [
-      "https://raw.githubusercontent.com/vnavink16/app-products/main/images/EyeGuardian1.png",
-      "https://raw.githubusercontent.com/vnavink16/app-products/main/images/EyeGuardian2.png",
-      "https://raw.githubusercontent.com/vnavink16/app-products/main/images/EyeGuardian3.png"
+      "https://vnavink16.github.io/app_products/images/EyeGuardian1.png",
+      "https://vnavink16.github.io/app_products/images/EyeGuardian2.png",
+      "https://vnavink16.github.io/app_products/images/EyeGuardian3.png"
     ],
     "price": "$0.99",
     "category": "Utilities"
@@ -20,8 +20,8 @@
     "iconName": "externaldrive.badge.checkmark",
     "appStoreURL": "https://apps.apple.com/in/app/eventcountdownpro/id6745096791",
     "screenshotURLs": [
-      "https://raw.githubusercontent.com/vnavink16/app-products/main/images/EventCountDown1.png",
-      "https://raw.githubusercontent.com/vnavink16/app-products/main/images/EventCountDown2.png"
+      "https://vnavink16.github.io/app_products/images/EventCountDown1.png",
+      "https://vnavink16.github.io/app_products/images/EventCountDown2.png"
     ],
     "price": "$0.99",
     "category": "Utilities"
