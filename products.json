@@ -25,5 +25,31 @@
     ],
     "price": "$0.99",
     "category": "Utilities"
+  },
+  {
+    "id": "com.vnk.ism",
+    "name": "Internet Speed Meter",
+    "description": "Internet Speed Meter is a sleek, lightweight menu bar application that gives you instant visibility into your internet data usage with beautiful visualizations and real-time statistics. Perfect for users with data caps, remote workers, or anyone who wants to optimize their network performance.",
+    "iconName": "https://vnavink16.github.io/app_products/images/InternetSpeedMeter.png",
+    "appStoreURL": "https://apps.apple.com/in/app/internet-speed-meter/id912227053",
+    "screenshotURLs": [
+      "https://vnavink16.github.io/app_products/images/InternetSpeedMeter1.png",
+      "https://vnavink16.github.io/app_products/images/InternetSpeedMeter2.png"
+    ],
+    "price": "$0.99",
+    "category": "Utilities"
+  },
+  {
+    "id": "com.vnk.isysteminfo",
+    "name": "iSystem Monitor",
+    "description": "Effortlessly monitor your Mac's performance in real-time with iSystem Monitor – the elegant, lightweight system monitoring tool that lives in your menu bar. iSystem Monitor provides comprehensive insights into your Mac's vital performance metrics without cluttering your desktop. Designed for both casual users and professionals who need to keep an eye on system resources, this powerful utility delivers the information you need with just a single click.",
+    "iconName": "https://vnavink16.github.io/app_products/images/iSystemMonitor.png",
+    "appStoreURL": "https://apps.apple.com/in/app/isystem-monitor/id912227180",
+    "screenshotURLs": [
+      "https://vnavink16.github.io/app_products/images/iSystemMonitor1.png",
+      "https://vnavink16.github.io/app_products/images/iSystemMonitor2.png"
+    ],
+    "price": "$0.99",
+    "category": "Utilities"
   }
 ]
